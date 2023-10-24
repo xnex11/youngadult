@@ -11,6 +11,7 @@
     background-attachment: fixed;
     background-position:right;
     background-color: rgb(58, 53, 50);
+    height:100vh;
 }
 .fc{
     color: aliceblue;
